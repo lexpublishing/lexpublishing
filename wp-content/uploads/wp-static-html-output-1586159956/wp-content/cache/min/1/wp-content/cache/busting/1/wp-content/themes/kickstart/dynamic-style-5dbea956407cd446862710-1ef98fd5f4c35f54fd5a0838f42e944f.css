@@ -1,0 +1,52 @@
+.quote-start, a:hover, #footer-widget-area a:hover, .entry-utility a:hover, #primary-main-menu li ul li:hover>a, #primary-main-menu li ul>li.current-menu-item>a, #primary-main-menu li ul>li.current-menu-ancestor>a, #primary-main-menu li ul>li.current_page_parent>a, .wp-pagenavi a:hover, .wp-pagenavi span.current, .su-fancy-link:hover, ul.pf-filter li.active a, .su-tabs-nav span.su-tabs-current .su-tab-icon, .su-tabs-nav span:hover .su-tab-icon, .su-tabs .pane-wrapper .pane-title:hover .su-tab-icon, .su-tabs .pane-wrapper .pane-title.su-tabs-current .su-tab-icon, .su-spoiler-title .spoiler-button.spoiler-active, .su-spoiler-title:hover .spoiler-button, .widget_side_menu ul li.current-menu-item a, #copyright a:hover, #footer-menu a:hover, .person-title, .quote-author, .service-box i, .fp_carousel .jcarousel-prev:hover, .fp_carousel .jcarousel-next:hover, .tp-caption.kickstart_color, .woocommerce-MyAccount-navigation ul li.is-active a {color: #c21010;}
+.su-button, .sidebar-line span, .background-block, .nivo-directionNav a:hover, .nivo-controlNav a.active, .latest-blog-entry .blog-entry-date span, .link-button a, .post-link, #wp-calendar #today, #footer-widget-area #wp-calendar tbody td#today, .skillbar, input[type="submit"], thead th, .tp-caption.kickstart_button, .tp-caption.kickstart_bgcolor, #header-search-wrapper {background-color: #c21010;}
+ul.pf-filter li.active, .su-pullquote-style-1, .wp-pagenavi a:hover, .wp-pagenavi span.current, .staff-wrapper img, #primary-main-menu>li:hover>a, #primary-main-menu li.search-active a {border-color: #c21010;}
+.su-callout {border-left-color: #c21010;}
+#primary-main-menu>li.current-menu-item a:after, #primary-main-menu>li.current-menu-ancestor a:after, #primary-main-menu>li.current_page_parent>a:after, #header-search-wrapper:before, .woocommerce-MyAccount-navigation ul li.is-active {border-bottom-color: #c21010;}
+.latest-works ul li .pf-title, .filterable-grid li a.pf-info, .filterable-grid li a.pf-zoom, .filterable-grid .pf-title, .fp_carousel li .fp_title {background-color: #c21010;background-color: rgba(194,16,16,.8);}
+.woocommerce div.product span.price, .woocommerce div.product p.price, .woocommerce #content div.product span.price, .woocommerce #content div.product p.price, .woocommerce-page div.product span.price, .woocommerce-page div.product p.price, .woocommerce-page #content div.product span.price, .woocommerce-page #content div.product p.price, .woocommerce ul.products li.product .price, .woocommerce-page ul.products li.product .price, .woocommerce .cart-collaterals .cart_totals table .total th, .woocommerce .cart-collaterals .cart_totals table .total td, .woocommerce table.shop_table tfoot .total td, .woocommerce table.shop_table tfoot .total th {color: #c21010;}
+.woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce #content input.button, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #respond input#submit, .woocommerce-page #content input.button, .woocommerce span.onsale, .woocommerce-page span.onsale, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page #content input.button.alt, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle {background-color: #c21010;}
+body {background-color: ;background-image: url("");background-repeat: ;background-position: ;background-attachment: ;}
+body {font-family: Arial,Helvetica,sans-serif;font-weight: ;letter-spacing: ;text-transform: ;color: #727272;font-size: ;}
+input[type='submit'] {font-family: Arial,Helvetica,sans-serif;}
+#primary-main-menu {font-family: Arial,Helvetica,sans-serif;font-weight: ;letter-spacing: ;text-transform: ;}
+.page-title h1 {font-family: Arial,Helvetica,sans-serif;font-weight: ;letter-spacing: ;text-transform: ;}
+#default-widget-area .xoxo li .widget-title, #footer-widget-area .widget-area .widget-title {font-family: Arial,Helvetica,sans-serif;font-weight: ;letter-spacing: ;text-transform: ;}
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h2.post-title, .su-tabs .su-tabs-nav span, .su-tabs .pane-title, .su_au_name, .su-pricing-title, .su-pricing-value, .post_slider .info h2, .recent_post_widget_title, .tp-caption.kickstart_heading {font-family: Arial,Helvetica,sans-serif;font-weight: ;letter-spacing: ;text-transform: ;}
+.custom-font {font-family: Arial,Helvetica,sans-serif;font-weight: ;letter-spacing: ;text-transform: ;}
+body a, ul#filter a {color: #c21010;}
+.mnky-breadcrumbs, .mnky-breadcrumbs a {color: #fff;}
+ul#filter li.current a {color: #727272;}
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .su-service-title, .su-tabs .su-tabs-nav span, .su-tabs .pane-title, .su_au_name, .heading-wrapper h6, .su-spoiler-title {color: #727272;}
+h1 {font-size: ;}
+h2 {font-size: ;}
+h3 {font-size: ;}
+h4 {font-size: ;}
+h5 {font-size: ;}
+h6 {font-size: ;}
+#header-wrapper {background-color: ;background-image: url("");background-repeat: ;background-position: ;}
+#title-wrapper {background-color: #616161;background-image: url("");background-repeat: ;background-position: ;background-attachment: ;border-color: #ebebeb;-webkit-background-size: auto;-moz-background-size: auto;-o-background-size: auto;background-size: auto;}
+#header {height: 160px;}
+#header #logo {margin-left: 1px;margin-bottom: 1px;}
+#primary-main-menu {font-size: ;}
+#primary-main-menu li {padding-bottom: 25px;}
+#primary-main-menu>li.current-menu-item, #primary-main-menu>li.current-menu-ancestor, #primary-main-menu>li.current_page_parent {padding-bottom: 27px;}
+#primary-main-menu li a {color: #292929;border-color: #e7e7e7;}
+#primary-main-menu li ul li a {background-color: #313131;}
+#primary-main-menu li ul li a {color: #bfbfbf;}
+#footer-wrapper {background-color: #373839;}
+#copyright-wrapper {background-color: #282a2b;}
+#footer-widget-area .widget-area .widget-title {color: #eaeaea;}
+#footer-wrapper, #copyright {color: #9c9c9c;}
+#footer-wrapper a, #copyright a, #footer-menu a {color: #bcbcbc;}
+.page-title h1 {color: #fff;}
+.page-title h1 {text-shadow: none;background: none;}
+#header-wrapper #header-widget-area ul.xoxo {margin-top: 0;}
+#top-bar-wrapper {background-color: #c21010;}
+#top-bar-wrapper #top-bar, #top-bar-wrapper #top-bar a {color: #8b8b8b;}
+#orbit-wrapper, #orbit-content {height: 390px !important;}
+@media only screen and (min-width:480px) and (max-width:767px) {#orbit-wrapper, #orbit-content {height: 181px !important;}}
+@media only screen and (max-width:479px) {#orbit-wrapper, #orbit-content {height: 125px !important;}}
+@media only screen and (min-width:768px) and (max-width:979px) {#orbit-wrapper, #orbit-content {height: 289px !important;}}
+body {text-align: justify;}
+#title-wrapper {height: 60px;}
